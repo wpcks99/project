@@ -132,5 +132,4 @@ public class MainActivity extends AppCompatActivity {
             onCreate(db);
         }
     }
-SSSSSSSSSSSSSSSSSSSSSS
 }
